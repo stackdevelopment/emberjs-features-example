@@ -1,1 +1,3 @@
 # emberjs-features-example
+
+Test
